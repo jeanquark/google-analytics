@@ -8,12 +8,12 @@ No database required!
 
 Clone the repo
 ```
-git clone https://github.com/jeanquark/google_analytics.git
+git clone https://github.com/jeanquark/google-analytics.git
 ```
 
 Move to the newly created folder and install all dependencies:
 ```
-cd google_analytics
+cd google-analytics
 composer install
 ```
 
