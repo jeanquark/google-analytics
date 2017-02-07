@@ -1,4 +1,4 @@
-# Retrieve Google Analytics data in Laravel 5.3 via AJAX call to the Google API
+# Retrieve Google Analytics data in Laravel via AJAX call to the Google API
 
 For step by step instructions, visit my [blog post](http://www.jmkleger.com/post/retrieve-analytics-data-in-laravel-via-ajax-call-to-the-google-api).
 No database required!
@@ -32,7 +32,7 @@ Finally, add a new folder named .google containing your personal service account
 Visit the newly created app on your favorite browser.
 
 ## Features
-1. Retrieve a selection of Google Analytics dimensions and metrics and display them in a table
+1. Retrieve a selection of Google Analytics dimensions and metrics and display them in a table.
 2. Well, that's it ;-)
 
 ## Screenshots
@@ -40,10 +40,10 @@ Visit the newly created app on your favorite browser.
 Homepage:
 ![homepage](https://github.com/jeanquark/google-analytics/raw/master/public/homepage.png "Homepage")
 
-Table:
+Button:
 ![analytics](https://github.com/jeanquark/google-analytics/raw/master/public/analytics.png "analytics")
 
-Create a new post:
+Table:
 ![table](https://github.com/jeanquark/google-analytics/raw/master/public/table.png "table")
 
 ## Licence
